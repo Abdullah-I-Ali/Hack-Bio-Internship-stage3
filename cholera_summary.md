@@ -1,11 +1,12 @@
 ## Cholera Outbreak Report for Brazil
-## Author(@slack)
 ## AMR Epidemiology Team 
+## Author(@slack)
 Abdullah Ibrahim Ali(@Abdullah108)
 
 Kareem Elsayed Saad Abdell Gawad(@Kareem_101)
 
-Country: Brazil
+# Country: 
+Brazil ( In provided code you can generate report for any country )
 
 # Cholera Outbreak Overview
 Total Cases Reported: 173220
