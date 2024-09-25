@@ -401,7 +401,7 @@ generate_report <- function() {
   report_content <- paste0("
 ---
 title: \"Cholera Outbreak Report for ", country_name, "\"
-author: \"AMR Epidemiology Team Abdullah Karim\"
+author: \"AMR Epidemiology Team \"
 output: html_document
 ---
 
