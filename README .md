@@ -20,20 +20,21 @@ Our Solution for Epidemiologist Team (Kareem\_101 \- Abdullah108)
 In this Docs  [Here](https://docs.google.com/document/d/12xfhlTNXpOy5s_Swy_hUO1zO5bSfjlZM7RiNZ1DarJA/edit?usp=sharing)
 
 ## Phase II
-
-1. Description: This dataset contains historical records of cholera outbreaks across various countries and territories.
-
-   The data includes information on the number of reported cases, deaths, and fatality rates for cholera over different years.
-
 # Emportant Links
 
 1. For Report The [link](https://rich-vacuum-738.notion.site/Overview-Data-Analysis-and-Findings-on-Cholera-Data-1066793b6a03802c969bd3b78aa3e1c6)
 
       2.For Shiny App The [link](https://choleradatainsights.shinyapps.io/solve/)
-
 # Resourece
 
 Data from World Health Organization(WHO) : "[https://apps.who.int/gho/data/node.main.174?lang=en](https://apps.who.int/gho/data/node.main.174?lang=en)"
+
+# About Used DataSet
+1. Description: This dataset contains historical records of cholera outbreaks across various countries and territories.
+
+   The data includes information on the number of reported cases, deaths, and fatality rates for cholera over different years.
+
+
 
 Files in the dataset:
 
@@ -91,4 +92,8 @@ Some columns may contain missing values (NA). These can be handled using various
     Build the Shiny App: The front-end bioinformaticians will use the R Shiny framework to create an interactive dashboard to visualize the cholera outbreak data provided by the epidemiologists. Key Features: The app should include: Interactive maps and charts. Filters to select specific countries and time periods. Calculations and summaries of key metrics like total cases, fatalities, and outbreak durations. Automatic Reports: Implement functionality to automatically generate country-specific reports based on the epidemiologists' summary template.4.  
    You can find App link   
    [Here](https://choleradatainsights.shinyapps.io/solve/)
-
+## Used Programming language
+1.For AMR Team 
+   R - Bash
+2. For Front-End Team
+   R (100%)
