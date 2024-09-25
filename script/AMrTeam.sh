@@ -1,4 +1,4 @@
-  
+  #!bin/bash  
   378  mkdir Karim_Abdullah
   379  mkdir biocomputing && cd biocomputing
   380  wget https://raw.githubusercontent.com/josoga2/dataset-repos/main/wildtype.fna
